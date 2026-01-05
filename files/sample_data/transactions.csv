@@ -1,0 +1,13 @@
+```csv
+date,amount,currency,type,category,subcategory,account,merchant,description,tags
+2026-01-03,3000.00,AUD,income,Salary,,Checking,Employer,January salary,salary
+2026-01-04,-45.20,AUD,expense,Groceries,Supermarket,Checking,Woolworths,Weekly shop,groceries
+2026-01-02,-1200.00,AUD,expense,Rent,,Checking,Landlord,January rent,housing
+2026-01-05,-60.00,USD,expense,Streaming,Netflix,CreditCard-Visa,Netflix,Monthly subscription,subscriptions
+2026-01-06,-80.50,AUD,expense,Fuel,,CreditCard-Visa,BP,Petrol,transport
+2026-01-08,150.00,USD,income,Freelance,,Checking,Upwork,Side gig,freelance
+2026-01-10,-200.00,AUD,expense,UtilitiesElectricity,,Checking,EnergyCo,Electricity bill,utilities
+2026-01-14,-35.00,AUD,expense,Phone,,CreditCard-Visa,Telco,Phone bill,utilities
+2026-01-16,-120.00,AUD,expense,CarInsurance,,Checking,InsureCo,Car insurance monthly,insurance
+2026-01-20,-250.00,USD,expense,Travel,Flights,Checking,Airline,Flight to Sydney,travel
+```
